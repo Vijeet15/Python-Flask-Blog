@@ -9,13 +9,13 @@
     "gh_url": "https://github.com/codingthunder",
     "blog_name": "Coding Thunder",
     "tag_line": "Heaven for Programmers",
-    "gmail-user": "agrawalvijeet@gmail.com",
-    "gmail-password": "150360540",
+    "gmail-user": "",
+    "gmail-password": "",
     "about_text": "Hello my name is Vijeet and this is a blog created by me with the help of Flask",
     "no_of_posts": 2,
     "login_image": "logo.jpg",
     "admin_username": "VijeetA",
-    "admin_password": "150360540",
+    "admin_password": "",
     "upload_location": "C:\\Users\\Hp\\PycharmProjects\\Flask-tut\\static"
   }
 }
